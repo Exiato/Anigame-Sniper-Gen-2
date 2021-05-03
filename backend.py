@@ -3,6 +3,7 @@ from discord.ext import commands
 import json
 from colorama import init, Fore, Back, Style
 from datetime import datetime
+from os import system
 init(convert=True)
 import asyncio
 with open("config.json") as f:
@@ -63,6 +64,7 @@ async def on_ready():
     x = un.read()
     print(f"-------------->Sniping for {x}<--------------")
     un.close() 
+    system("title "+"Anigame Sniper Support")
 
 async def get_channels():
     with open("channels.json", "r") as f:
@@ -195,4 +197,4 @@ async def on_message(msg):
                     return
 
 print(Fore.RESET)       
-client.run(SUPPORT_TOKEN) 
+client.run(SUPPORT_TOKEN,bot=True) 

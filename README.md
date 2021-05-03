@@ -2,7 +2,7 @@
 Anigame Sniper Gen 2 , this is a generation 2 Anigame Sniper , its made to autoclaim anigame cards as you all know the previous generation got beated up really bad by discord..
 
 ## Get the sniper
-- Download the codes as zip file or,
+- [Download the codes as zip file](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-2/archive/refs/heads/main.zip) or,
 - Clone this repo or,
 - Fork this repo or,
 - Just copy the codes
@@ -14,7 +14,7 @@ Anigame Sniper Gen 2 , this is a generation 2 Anigame Sniper , its made to autoc
 4) Run frontend.py
 5) Run backend.py
 
-## [Commands]()
+## [Commands](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-2/blob/main/commands.txt)
 Anigame Sniper Commands-
 1) {prefix}add  | To turn ON sniper in the specific channel .
 2) {prefix}remove | To turn OFF sniper in the specific channel .

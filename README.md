@@ -1,5 +1,6 @@
 # Anigame-Sniper-Gen-2
-Anigame Sniper Gen 2 , this is a generation 2 Anigame Sniper , its made to autoclaim anigame cards as you all know the previous generation got beated up really bad by discord..
+Anigame Sniper Gen 2 , this is generation 2 Anigame Sniper , its made to autoclaim anigame cards and is a tribute to 1st gen anigame sniper.. ig lol..
+You all know the previous generation got beated up really bad by discord..
 
 ## Get the sniper
 - [Download the codes as zip file](https://github.com/Sebastian09-09/Anigame-Sniper-Gen-2/archive/refs/heads/main.zip) or,

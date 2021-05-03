@@ -3,6 +3,7 @@ import json
 from colorama import init, Fore, Back, Style
 init(convert=True)
 import asyncio
+from os import system
 with open("config.json") as f:
     config = json.load(f)
 TOKEN = config.get("TOKEN")
@@ -43,6 +44,7 @@ async def on_ready():
     un = open("username.txt" , "w")
     un.write(str(client.user))
     un.close()
+    system("title "+"Anigame Sniper")
 
 async def get_channels():
     with open("channels.json", "r") as f:
